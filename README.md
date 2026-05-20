@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I completed studying at Institut Teknologi Sepuluh Nopember, Indonesia, specializing in thesis research on prompt engineering for recommendation systems using large language models.<br><br>🤖 Passionate about data-driven solutions, I am eager to apply my expertise in data analysis, business intelligence, and AI-driven recommendations to real-world challenges.<br><br>💼 I am open to opportunities as a Data Analyst, Research Analyst, Business Analyst, or AI Engineer, where I can contribute my skills while continuously learning and growing.
+🎓 I completed my Master's degree in Technology Management at Institut Teknologi Sepuluh Nopember (ITS), Indonesia, with a thesis focusing on prompt engineering for recommendation systems using large language models.<br><br>🤖 Passionate about data-driven solutions, I am eager to apply my expertise in data analysis, business intelligence, and AI-driven recommendations to real-world challenges.<br><br>💼 I am open to opportunities as a Data Analyst, Research Analyst, Business Analyst, or AI Engineer, where I can contribute my skills while continuously learning and growing.
 
 
 ## 🌐 Socials:
